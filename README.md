@@ -1,0 +1,1 @@
+A backend service that helps readers track their book collection, reading progress, and notes in one place. Built with FastAPI to demonstrate production-grade API design, authentication patterns, and database management.
